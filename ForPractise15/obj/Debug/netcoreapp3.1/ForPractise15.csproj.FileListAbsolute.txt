@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\bin\Debug\netcoreapp3.1\ForPractise15.exe
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\bin\Debug\netcoreapp3.1\ForPractise15.deps.json
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\bin\Debug\netcoreapp3.1\ForPractise15.runtimeconfig.json
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\bin\Debug\netcoreapp3.1\ForPractise15.runtimeconfig.dev.json
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\bin\Debug\netcoreapp3.1\ForPractise15.dll
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\bin\Debug\netcoreapp3.1\ForPractise15.pdb
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.AssemblyInfo.cs
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.dll
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.pdb
+C:\Users\Home\Desktop\test\ForPractise15\ForPractise15\obj\Debug\netcoreapp3.1\ForPractise15.genruntimeconfig.cache
